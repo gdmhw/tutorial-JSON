@@ -1,0 +1,26 @@
+JSON
+  JavaScript Object Notation
+
+  Data representation Format
+
+  Commonly used for APIs, Configurations
+
+  Lightweight and easy to read and write
+
+  Integrates nicely with JS, - valid in JS
+
+  JSON data easy to use with other programming languages
+
+JSON types
+
+  Strings: "Hello World"
+
+  Numbers: 10, 1.5, -30, 1.2e10
+
+  Booleans: True / False
+
+  null: null
+
+  Arrays: [1,2,3] ["Hello", "World"]
+
+  Objects: {"key": "value"} {"age": 30}
